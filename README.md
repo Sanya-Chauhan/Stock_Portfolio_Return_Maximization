@@ -1,2 +1,4 @@
-# ML_Project
-Stock Price Prediction
+# Optimal Trading Policy for Portfolio Return Maximization
+
+
+Stock Price Prediction + Stock Portfolio Return Maximization
